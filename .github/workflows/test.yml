@@ -9,6 +9,5 @@ jobs:
   build:
     permissions: write-all
     uses: ./.github/workflows/build.yml
-    if: ${{ needs.check.outputs.SHOULD_BUILD == 1 }}
     secrets: inherit
   
