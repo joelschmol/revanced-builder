@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: "0 16 * * *"
 
-jobs:
+jobs: 
   check:
     permissions: write-all
     runs-on: ubuntu-latest
