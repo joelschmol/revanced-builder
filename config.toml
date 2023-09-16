@@ -7,7 +7,7 @@ build-mindetach-module = true
 
 [YouTube]
 build-mode = "apk"                                                   # 'both', 'apk' or 'module'
-included-patches = "disable-shorts-on-startup disable-auto-captions hdr-auto-brightness hide-ads hide-email-address minimized-playback playback-speed premium-heading remember-video-quality return-youtube-dislike sponsorblock vanced-microg-support video-ads"
+included-patches = "disable-shorts-on-startup disable-auto-captions hdr-auto-brightness hide-ads hide-email-address minimized-playback playback-speed premium-heading remember-video-quality return-youtube-dislike sponsorblock vanced-microg-support video-ads swipe-controls"
 exclusive-patches = true
 version = "auto"                                                      # 'auto', 'latest', 'beta' or a custom one like '17.40.41'
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
