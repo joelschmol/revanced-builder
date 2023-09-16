@@ -27,6 +27,7 @@ apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 excluded-patches = "disable-screenshot-popup"
 
 [Backdrops]
+enabled = false
 uptodown-dlurl = "https://backdrops.en.uptodown.com/android"
 
 [Lightroom]
